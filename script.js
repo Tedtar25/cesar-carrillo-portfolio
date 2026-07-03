@@ -69,14 +69,14 @@ const closeModal = () => {
 document.querySelector('[data-modal="petradar"]')?.addEventListener("click", () => {
   openModal(
     "Endpoints PetRadar API",
-    `<p>Endpoints publicos para probar el backend desde navegador o Postman.</p>
+    `<p>Endpoints públicos para probar el backend desde navegador o Postman.</p>
     <pre><code>GET  https://pet-radar-api-7we6.onrender.com/health
 GET  https://pet-radar-api-7we6.onrender.com/lost-pets
 POST https://pet-radar-api-7we6.onrender.com/lost-pets
 
 Body JSON:
 {
-  "name": "Cesar Carrillo",
+  "name": "César Carrillo",
   "latitude": 45.165,
   "longitude": -101.684
 }</code></pre>`
@@ -86,7 +86,7 @@ Body JSON:
 document.querySelector('[data-modal="bubbas"]')?.addEventListener("click", () => {
   openModal(
     "Rutas RestAPI-Bubbas",
-    `<p>API backend desplegada en Render. Para una vista rapida con datos guardados, usa la ruta de productos.</p>
+    `<p>API backend desplegada en Render. Para una vista rápida con datos guardados, usa la ruta de productos.</p>
     <pre><code>Base URL:
 https://restapi-bubbas.onrender.com/
 

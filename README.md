@@ -1,8 +1,8 @@
-# CV Digital - Cesar Carrillo
+# CV Digital - César Carrillo
 
-Sitio web personal tipo CV/portfolio para presentar perfil profesional, tecnologias, proyectos backend, demos web y contacto.
+Sitio web personal tipo CV/portfolio para presentar perfil profesional, tecnologías, proyectos backend, demos web y contacto.
 
-## Tecnologias
+## Tecnologías
 
 - HTML
 - CSS
@@ -13,12 +13,12 @@ Sitio web personal tipo CV/portfolio para presentar perfil profesional, tecnolog
 ## Secciones
 
 - Inicio
-- Sobre mi
-- Tecnologias
+- Sobre mí
+- Tecnologías
 - Proyectos destacados
 - Web demos
-- Galeria
-- Experiencia y formacion
+- Galería
+- Experiencia y formación
 - Contacto
 
 ## Proyectos destacados
@@ -31,13 +31,13 @@ Sitio web personal tipo CV/portfolio para presentar perfil profesional, tecnolog
 
 ## Deploy
 
-El sitio esta preparado para publicarse en Netlify como proyecto estatico.
+El sitio está preparado para publicarse en Netlify como proyecto estático.
 
-Configuracion recomendada:
+Configuración recomendada:
 
-- Build command: vacio
+- Build command: vacío
 - Publish directory: `/`
 
 ## Pendiente
 
-Agregar el archivo `assets/CV-Cesar-Carrillo.pdf` cuando el CV final incluya el QR de la pagina publicada.
+Agregar o actualizar el archivo `assets/cv_cesar_carrillo.pdf` cuando el CV final incluya el QR de la página publicada.

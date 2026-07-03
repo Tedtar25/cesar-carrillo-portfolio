@@ -1,5 +1,5 @@
 # Assets
 
-Coloca aqui el archivo `CV-Cesar-Carrillo.pdf` para activar el boton de descarga del CV.
+Coloca aquí el archivo `cv_cesar_carrillo.pdf` para activar el botón de descarga del CV.
 
-Tambien puedes agregar capturas de proyectos y reemplazar los placeholders de la galeria en `index.html`.
+También puedes agregar capturas de proyectos y reemplazar los placeholders de la galería en `index.html`.
